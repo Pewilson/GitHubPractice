@@ -1,2 +1,2 @@
 # GitHubPractice
- the name says it all
+ Practice code for Github
